@@ -88,9 +88,4 @@ This project helps in understanding:
 * End-to-end CRUD operations.
 * The request-response lifecycle in Java web applications.
 
-
-**Author:** [Dipesh Chauhan](https://github.com/DipeshChauhan033)
-
-**GitHub Repository:** [AdvancedJavaEnterprise – Mini Project](https://github.com/DipeshChauhan033/AdvancedJavaEnterprise/tree/main/SERVLET%20%26%20JSP/Mini_Project)
-
 *This project is developed for learning and practicing Java enterprise application fundamentals.*
